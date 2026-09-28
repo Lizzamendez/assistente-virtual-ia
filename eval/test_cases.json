@@ -1,0 +1,15 @@
+[
+  {"question": "O que é fluxo de caixa e por que ele é importante?", "expected_id": "fin-fluxo-caixa"},
+  {"question": "Como calcular o ponto de equilíbrio de um negócio?", "expected_id": "fin-ponto-equilibrio"},
+  {"question": "Para que serve a análise SWOT?", "expected_id": "est-swot"},
+  {"question": "O que são os 4 Ps do marketing?", "expected_id": "mkt-4ps"},
+  {"question": "Como motivar minha equipe de trabalho?", "expected_id": "rh-motivacao"},
+  {"question": "O que é um MVP e para que serve na criação de um novo produto?", "expected_id": "emp-mvp"},
+  {"question": "O que são as 5 forças de Porter?", "expected_id": "est-porter"},
+  {"question": "O que é o ciclo PDCA usado no controle de qualidade?", "expected_id": "op-qualidade"},
+  {"question": "O que é um KPI e como escolher bons indicadores?", "expected_id": "ind-kpis"},
+  {"question": "Como funciona a DRE de uma empresa?", "expected_id": "fin-dre"},
+  {"question": "Quem foi o pintor Pablo Picasso?", "expected_id": null},
+  {"question": "Como faço para trocar o pneu do meu carro?", "expected_id": null},
+  {"question": "Qual a receita da minha lasanha de berinjela favorita?", "expected_id": null}
+]

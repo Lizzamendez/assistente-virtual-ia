@@ -1,0 +1,8 @@
+scikit-learn>=1.3
+numpy>=1.24
+
+# Opcional: só é necessário se você quiser respostas geradas pela IA do
+# Gemini (Google AI) em vez do modo extrativo local. Sem essa dependência
+# e sem a variável GEMINI_API_KEY, o assistente funciona normalmente no
+# modo extrativo (baseado só na base de conhecimento).
+google-generativeai>=0.8

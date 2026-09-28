@@ -1,0 +1,142 @@
+[
+  {
+    "id": "func-planejamento",
+    "topic": "Funções Administrativas",
+    "title": "Planejamento",
+    "content": "Planejamento é a função administrativa que define objetivos e os melhores caminhos para alcançá-los. Envolve diagnosticar a situação atual, definir metas (de preferência SMART: específicas, mensuráveis, atingíveis, relevantes e temporais), traçar estratégias e planos de ação, e prever recursos necessários. Pode ser estratégico (longo prazo, toda a organização), tático (médio prazo, por área) ou operacional (curto prazo, tarefas do dia a dia).",
+    "keywords": ["planejamento", "metas", "objetivos", "plano de ação", "smart", "estratégico", "tático", "operacional"]
+  },
+  {
+    "id": "func-organizacao",
+    "topic": "Funções Administrativas",
+    "title": "Organização",
+    "content": "Organização é estruturar recursos humanos, financeiros e materiais para executar o planejamento. Inclui definir uma estrutura organizacional (organograma), distribuir tarefas e responsabilidades, estabelecer hierarquia e linhas de comunicação, e alocar recursos de forma eficiente entre setores.",
+    "keywords": ["organização", "organograma", "estrutura", "hierarquia", "responsabilidades", "setores"]
+  },
+  {
+    "id": "func-direcao",
+    "topic": "Funções Administrativas",
+    "title": "Direção",
+    "content": "Direção é conduzir e motivar as pessoas para que executem o que foi planejado. Envolve liderança, comunicação clara, motivação de equipes e tomada de decisão no dia a dia. Um bom líder adapta seu estilo (autocrático, democrático ou liberal) conforme a maturidade da equipe e a situação.",
+    "keywords": ["direção", "liderança", "motivação", "comunicação", "liderar equipe", "estilo de liderança"]
+  },
+  {
+    "id": "func-controle",
+    "topic": "Funções Administrativas",
+    "title": "Controle",
+    "content": "Controle é acompanhar os resultados e compará-los com as metas planejadas, corrigindo desvios. Usa indicadores (KPIs), relatórios periódicos e reuniões de acompanhamento. O ciclo PDCA (Planejar, Fazer, Checar, Agir) é uma ferramenta clássica para controle e melhoria contínua.",
+    "keywords": ["controle", "indicadores", "kpi", "pdca", "acompanhamento", "melhoria contínua", "desvios"]
+  },
+  {
+    "id": "fin-fluxo-caixa",
+    "topic": "Gestão Financeira",
+    "title": "Fluxo de Caixa",
+    "content": "Fluxo de caixa é o controle de todas as entradas e saídas de dinheiro de um negócio em um período. Permite saber se a empresa terá dinheiro suficiente para pagar suas contas. Um fluxo de caixa saudável mantém uma reserva para imprevistos e projeta entradas e saídas dos próximos meses, não apenas o presente.",
+    "keywords": ["fluxo de caixa", "entradas", "saídas", "caixa", "liquidez", "capital de giro"]
+  },
+  {
+    "id": "fin-dre",
+    "topic": "Gestão Financeira",
+    "title": "DRE (Demonstrativo de Resultado)",
+    "content": "A DRE (Demonstrativo de Resultado do Exercício) mostra se a empresa teve lucro ou prejuízo em um período. Estrutura básica: Receita Bruta - Deduções = Receita Líquida; Receita Líquida - Custos = Lucro Bruto; Lucro Bruto - Despesas Operacionais = Lucro Operacional; ajustes finais chegam ao Lucro Líquido.",
+    "keywords": ["dre", "lucro", "prejuízo", "receita", "custos", "despesas", "demonstrativo de resultado"]
+  },
+  {
+    "id": "fin-ponto-equilibrio",
+    "topic": "Gestão Financeira",
+    "title": "Ponto de Equilíbrio",
+    "content": "Ponto de equilíbrio é o volume de vendas necessário para que a receita cubra exatamente os custos totais (fixos + variáveis), sem lucro nem prejuízo. Fórmula simplificada: Ponto de Equilíbrio = Custos Fixos / (Preço de Venda - Custo Variável Unitário). Vender acima desse ponto gera lucro.",
+    "keywords": ["ponto de equilíbrio", "custos fixos", "custos variáveis", "break-even", "margem de contribuição"]
+  },
+  {
+    "id": "rh-recrutamento",
+    "topic": "Gestão de Pessoas",
+    "title": "Recrutamento e Seleção",
+    "content": "Recrutamento é atrair candidatos para uma vaga; seleção é escolher o mais adequado entre eles. Boas práticas incluem descrever claramente o cargo e as competências exigidas, usar múltiplas etapas (triagem de currículo, entrevistas, testes práticos) e avaliar tanto habilidades técnicas quanto comportamentais (fit cultural).",
+    "keywords": ["recrutamento", "seleção", "contratação", "vaga", "entrevista", "candidato", "rh"]
+  },
+  {
+    "id": "rh-motivacao",
+    "topic": "Gestão de Pessoas",
+    "title": "Motivação de Equipes",
+    "content": "Motivação envolve reconhecimento, remuneração justa, clareza de propósito, oportunidades de crescimento e um ambiente de trabalho saudável. Teorias como a Hierarquia de Maslow e a Teoria dos Dois Fatores de Herzberg ajudam a entender que fatores higiênicos (salário, condições) evitam insatisfação, mas fatores motivacionais (reconhecimento, desafio) geram engajamento real.",
+    "keywords": ["motivação", "engajamento", "reconhecimento", "maslow", "herzberg", "clima organizacional"]
+  },
+  {
+    "id": "mkt-4ps",
+    "topic": "Marketing",
+    "title": "Os 4 Ps do Marketing",
+    "content": "O composto de marketing (mix de marketing) é formado por Produto (o que é oferecido), Preço (quanto custa), Praça (onde e como é distribuído) e Promoção (como é comunicado ao público). Alinhar os 4 Ps entre si e com o público-alvo é essencial para uma estratégia de marketing coerente.",
+    "keywords": ["marketing", "4 ps", "produto", "preço", "praça", "promoção", "mix de marketing"]
+  },
+  {
+    "id": "mkt-segmentacao",
+    "topic": "Marketing",
+    "title": "Segmentação de Mercado",
+    "content": "Segmentação é dividir o mercado em grupos com características e necessidades semelhantes (por demografia, comportamento, localização ou interesses) para direcionar melhor produtos e comunicação. Depois de segmentar, a empresa escolhe um público-alvo (targeting) e define como quer ser percebida por ele (posicionamento).",
+    "keywords": ["segmentação", "público-alvo", "targeting", "posicionamento", "persona", "nicho de mercado"]
+  },
+  {
+    "id": "est-swot",
+    "topic": "Estratégia",
+    "title": "Análise SWOT",
+    "content": "A análise SWOT (Forças, Fraquezas, Oportunidades e Ameaças) organiza fatores internos (Forças e Fraquezas, que a empresa controla) e externos (Oportunidades e Ameaças, do mercado) para apoiar decisões estratégicas. É uma ferramenta simples e muito usada no início de um planejamento estratégico.",
+    "keywords": ["swot", "forças", "fraquezas", "oportunidades", "ameaças", "análise estratégica"]
+  },
+  {
+    "id": "est-porter",
+    "topic": "Estratégia",
+    "title": "5 Forças de Porter",
+    "content": "O modelo das 5 Forças de Porter analisa a competitividade de um setor a partir de: rivalidade entre concorrentes, poder de negociação dos fornecedores, poder de negociação dos clientes, ameaça de novos entrantes e ameaça de produtos substitutos. Ajuda a entender o quão atrativo e defensável é um mercado.",
+    "keywords": ["porter", "5 forças", "concorrência", "fornecedores", "novos entrantes", "produtos substitutos"]
+  },
+  {
+    "id": "est-bsc",
+    "topic": "Estratégia",
+    "title": "Balanced Scorecard (BSC)",
+    "content": "O Balanced Scorecard traduz a estratégia em objetivos e indicadores em quatro perspectivas: Financeira, Clientes, Processos Internos e Aprendizado/Crescimento. Isso evita que a gestão olhe só para resultados financeiros de curto prazo e ajuda a conectar ações do dia a dia à estratégia de longo prazo.",
+    "keywords": ["balanced scorecard", "bsc", "indicadores estratégicos", "perspectivas", "mapa estratégico"]
+  },
+  {
+    "id": "op-processos",
+    "topic": "Operações",
+    "title": "Gestão de Processos",
+    "content": "Gestão de processos consiste em mapear, padronizar e melhorar continuamente as atividades de um negócio (por exemplo, com fluxogramas). Processos bem desenhados reduzem retrabalho, custos e erros, além de facilitar o treinamento de novos colaboradores.",
+    "keywords": ["processos", "fluxograma", "padronização", "mapeamento de processos", "retrabalho"]
+  },
+  {
+    "id": "op-qualidade",
+    "topic": "Operações",
+    "title": "Gestão da Qualidade",
+    "content": "Gestão da qualidade busca garantir que produtos e serviços atendam consistentemente às expectativas dos clientes. Ferramentas comuns incluem o ciclo PDCA, diagrama de Ishikawa (causa e efeito) para investigar problemas, e padrões como a ISO 9001 para certificação de sistemas de gestão.",
+    "keywords": ["qualidade", "pdca", "ishikawa", "iso 9001", "controle de qualidade", "não conformidade"]
+  },
+  {
+    "id": "emp-mvp",
+    "topic": "Empreendedorismo",
+    "title": "MVP (Produto Mínimo Viável)",
+    "content": "MVP é a versão mais simples de um produto ou serviço que já entrega valor e permite testar hipóteses com clientes reais, gastando o mínimo possível antes de investir pesado. Faz parte da abordagem Lean Startup: construir, medir e aprender em ciclos rápidos.",
+    "keywords": ["mvp", "produto mínimo viável", "lean startup", "validação", "hipóteses", "teste de mercado"]
+  },
+  {
+    "id": "emp-plano-negocios",
+    "topic": "Empreendedorismo",
+    "title": "Plano de Negócios",
+    "content": "Um plano de negócios organiza a ideia de um empreendimento: descrição do negócio, análise de mercado e concorrência, plano de marketing, plano operacional e plano financeiro (investimento inicial, projeção de receitas e despesas, ponto de equilíbrio). Ferramentas simplificadas como o Canvas de Modelo de Negócio ajudam a estruturar isso em uma página.",
+    "keywords": ["plano de negócios", "business model canvas", "modelo de negócio", "investimento inicial", "projeção financeira"]
+  },
+  {
+    "id": "ind-kpis",
+    "topic": "Indicadores",
+    "title": "KPIs (Indicadores-Chave de Desempenho)",
+    "content": "KPIs são métricas usadas para acompanhar se um objetivo está sendo alcançado. Bons KPIs são poucos, claros e ligados a uma meta (ex.: taxa de conversão de vendas, custo de aquisição de cliente - CAC, ticket médio, giro de estoque, turnover de funcionários). Acompanhar KPIs em excesso pode confundir mais do que ajudar.",
+    "keywords": ["kpi", "indicador", "cac", "ticket médio", "turnover", "giro de estoque", "taxa de conversão"]
+  },
+  {
+    "id": "ind-produtividade",
+    "topic": "Indicadores",
+    "title": "Produtividade e Eficiência",
+    "content": "Produtividade mede a relação entre o que é produzido e os recursos usados para produzir (tempo, dinheiro, pessoas). Eficiência é fazer mais com menos desperdício; eficácia é atingir o resultado desejado. Um bom gestor busca equilibrar as duas: ser eficiente sem perder de vista o objetivo final (eficácia).",
+    "keywords": ["produtividade", "eficiência", "eficácia", "desperdício", "recursos"]
+  }
+]
